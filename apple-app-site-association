@@ -1,9 +1,9 @@
 {
-   "applinks": {
-       "apps": [],
-       "details": [{
-           "appID": "B524284DDA.cblunardi.UniversalLinksExample",
-           "paths": [ "/redirects-to-ios/*" ]
-       }]
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "B524284DDA.cblunardi.UniversalLinksExample",
+            "paths": ["/redirects-to-ios"]
+            }]
     }
 }
