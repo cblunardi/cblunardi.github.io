@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "B524284DDA.cblunardi.UniversalLinksExample",
-            "paths": ["/redirects-to-ios/*", "/pdp*"]
+            "paths": ["/*utm_source=retail_sell*"]
             }]
     }
 }
