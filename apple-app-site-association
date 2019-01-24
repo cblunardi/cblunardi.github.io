@@ -1,9 +1,49 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [{
-            "appID": "B524284DDA.cblunardi.UniversalLinksExample",
-            "paths": ["/", "/??-??"]
-            }]
-    }
+   "webcredentials":{
+      "apps":[
+         "N2DNEYXETT.com.ynap.moncler-staging",
+         "N2DNEYXETT.com.ynap.moncler-dev",
+         "N2DNEYXETT.com.ynap.moncler",
+         "C4F72WZ8WR.com.moncler.moncler"
+      ]
+   },
+   "applinks":{
+      "apps":[
+
+      ],
+      "details":[
+         {
+            "appID":"N2DNEYXETT.com.ynap.moncler-dev",
+            "paths":[
+               "/",
+               "/??",
+               "/??-??"
+            ]
+         },
+         {
+            "appID":"N2DNEYXETT.com.ynap.moncler-staging",
+            "paths":[
+               "/",
+               "/??",
+               "/??-??"
+            ]
+         },
+         {
+            "appID":"N2DNEYXETT.com.ynap.moncler",
+            "paths":[
+               "/",
+               "/??",
+               "/??-??"
+            ]
+         },
+         {
+            "appID":"C4F72WZ8WR.com.moncler.moncler",
+            "paths":[
+               "/",
+               "/??",
+               "/??-??"
+            ]
+         }
+      ]
+   }
 }
